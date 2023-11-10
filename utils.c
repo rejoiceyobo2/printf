@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * is_printable - Evaluates if a char is printable
- * by rejoice_yobo and Arohunmolase Daniel
+ * is_printable - Evaluates if a char is printable.
+ * by rejoice_yobo and Arohunmolase Daniel.
  * @c: Char to be evaluated.
  *
  * Return: 1 if c is printable, 0 otherwise
@@ -17,8 +17,8 @@ int is_printable(char c)
 
 /**
  * append_hexa_code - Append ascci in hexadecimal code to buffer
- * @buffer: Array of chars.
- * @i: Index at which to start appending.
+ * @buffer: Arrays of chars.
+ * @i: Index at which to start the appending.
  * @ascii_code: ASSCI CODE.
  * Return: Always 3
  */
@@ -39,10 +39,10 @@ int append_hexa_code(char ascii_code, char buffer[], int i)
 }
 
 /**
- * is_digit - Verifies if a char is a digit
+ * is_digit - Verifies if a char is a num digit
  * @c: Char to be evaluated
  *
- * Return: 1 if c is a digit, 0 otherwise
+ * Return: 1 if c is a digit, 0 if otherwise
  */
 int is_digit(char c)
 {
@@ -57,7 +57,7 @@ int is_digit(char c)
  * @num: Number to be casted.
  * @size: Number indicating the type to be casted.
  *
- * Return: Casted value of num
+ * Return: Casted value of nums
  */
 long int convert_size_number(long int num, int size)
 {
