@@ -4,8 +4,9 @@ void print_buffer(char buffer[], int *buff_ind);
 
 /**
  * _printf - Printf function
- * @format: format.
+ * @format: formats.
  * Return: Printed chars.
+ * If else statement.
  */
 int _printf(const char *format, ...)
 {
