@@ -2,14 +2,15 @@
 
 /************************* WRITE HANDLE *************************/
 /**
- * handle_write_char - Prints a string
- * by rejoice_yobo and Arohunmolase Daniel
+ * handle_write_char - Prints a string.
+ * by rejoice_yobo and Arohunmolase Daniel.
  * @c: char types.
- * @buffer: Buffer array to handle print
+ * @buffer: Buffer array to handle print.
  * @flags:  Calculates active flags.
- * @width: get width.
+ * @width: get the width.
  * @precision: precision specifier
- * @size: Size specifier
+ * if else statement
+ * @size: Size specifier.
  *
  * Return: Number of chars printed.
  */
