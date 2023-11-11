@@ -4,8 +4,8 @@
  * is_printable - Evaluates if a char is printable.
  * by rejoice_yobo and Arohunmolase Daniel.
  * @c: Char to be evaluated.
- *
- * Return: 1 if c is printable, 0 otherwise
+ * integers and values.
+ * Return: 1 if c is printable, 0 otherwise.
  */
 int is_printable(char c)
 {
