@@ -20,7 +20,7 @@
 
 /**
  * struct fmt - Struct op
- *
+ * structure for main.h
  * @fmt: The format.
  * @fn: The function associated.
  */
