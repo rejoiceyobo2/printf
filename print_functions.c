@@ -2,14 +2,14 @@
 
 /****************** PRINT POINTER ******************/
 /**
- * print_pointer - Prints the value of a pointer variable
- * by rejoice_yobo and Arohunmolase Daniel
- * @types: List a of arguments
- * @buffer: Buffer array to handle print
- * @flags:  Calculates active flags
- * @width: get width
- * @precision: Precision specification
- * @size: Size specifier
+ * print_pointer - Prints the value of a pointer variable.
+ * by rejoice_yobo and Arohunmolase Daniel.
+ * @types: List a of arguments.
+ * @buffer: Buffer array to handle print.
+ * @flags:  Calculates active flags.
+ * @width: get the width.
+ * @precision: Precision on specification.
+ * @size: Size the specifier.
  * Return: Number of chars printed.
  */
 int print_pointer(va_list types, char buffer[],
