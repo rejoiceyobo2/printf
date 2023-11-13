@@ -6,10 +6,17 @@ int handle_print(const char *format, int *index, va_list list, char buffer[],
                  int flags, int width, int precision, int size);
 
 /**
+<<<<<<< HEAD
  * _printf - Printf function
  * @format: format string
  * by rejoice_yobo and Arohunmolase Daniel
  * Return: Number of printed characters
+=======
+ * _printf - Printf function.
+ * @format: format.
+ * Return: Printed chars.
+ * Conditions: if else statement.
+>>>>>>> b814428eab505801f491a0e4c18bc34ddb6aaba8
  */
 int _printf(const char *format, ...)
 {
