@@ -3,13 +3,13 @@
 /************************* WRITE HANDLE *************************/
 /**
  * handle_write_char - Prints a character
- * by rejoice_yobo and Arohunmolase Daniel
- * @c: Character to be printed
- * @buffer: Buffer array to handle print
+ * by rejoice_yobo and Arohunmolase Daniel..
+ * @c: Character to be printed.
+ * @buffer: Buffer array to handle print.
  * @flags:  Calculates active flags.
  * @width: Width specifier.
- * @precision: Precision specifier.
- * @size: Size specifier.
+ * @precision: Precision the specifier.
+ * @size: Size the specifier.
  *
  * Return: Number of characters printed.
  */
