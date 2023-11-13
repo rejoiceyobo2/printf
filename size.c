@@ -2,11 +2,11 @@
 
 /**
  * get_size - Calculates the size to cast the argument
- * by rejoice_yobo and Arohunmolase Daniel
- * @format: Formatted string in which to print the arguments
- * @i: Pointer to the current index in the format string
+ * by rejoice_yobo and Arohunmolase Daniel.
+ * @format: Formatted string in which to print the arguments.
+ * @i: Pointer to the current index in the format string.
  *
- * Return: Size specifier
+ * Return: Size the specifier
  */
 int get_size(const char *format, int *i)
 {
