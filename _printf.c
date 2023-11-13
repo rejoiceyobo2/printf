@@ -10,7 +10,6 @@ int handle_print(const char *format, int *index, va_list list, char buffer[],
  * @format: format string
  * by rejoice_yobo and Arohunmolase Daniel.
  * _printf - Printf function.
- * @format: format.
  * Return: Printed chars.
  * Conditions: if else statement.
  */
