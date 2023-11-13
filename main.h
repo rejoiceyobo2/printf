@@ -8,7 +8,7 @@
 #define UNUSED(x) (void)(x)
 #define BUFF_SIZE 1024
 
-/* FLAGS */
+/* FLAGs */
 #define F_MINUS 1
 #define F_PLUS 2
 #define F_ZERO 4
@@ -51,8 +51,8 @@ int _printf(const char *format, ...);
  * @buffer: Buffer array to handle print.
  * @flags: Calculates active flags.
  * @width: Width specifier.
- * @precision: Precision specifier.
- * @size: Size specifier.
+ * @precision: Precision the specifier.
+ * @size: Size the specifier.
  * Return: Number of characters printed (or -1 on error).
  */
 int handle_print(const char *fmt, int *i, va_list list, char buffer[],
