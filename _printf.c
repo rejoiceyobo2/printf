@@ -4,9 +4,17 @@ void print_buffer(char buffer[], int *buff_ind);
 
 /**
  * _printf - Printf function
+<<<<<<< HEAD
  * by rejoice_yobo and Arohunmolase Daniel
  * @format: format.
  * Return: Printed chars.
+=======
+ * @format: format string
+ * by rejoice_yobo and Arohunmolase Daniel.
+ * _printf - Printf function.
+ * Return: Printed chars.
+ * Conditions: if else statement.
+>>>>>>> 23e94d8f56f59ec156a9c290373abba8826ee520
  */
 int _printf(const char *format, ...)
 {

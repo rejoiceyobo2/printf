@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * get_width - Calculates the width for printing
- * by rejoice_yobo and Arohunmolase Daniel
- * @format: Formatted string in which to print the arguments
- * @i: Pointer to the current index in the format string
- * @list: List of arguments
+ * get_width - Calculates the width for printing.
+ * by rejoice_yobo and Arohunmolase Daniel.
+ * @format: Formatted string in which to print the arguments.
+ * @i: Pointer to exact the current index in the format string.
+ * @list: List of arguments.
  *
  * Return: Width
  */
