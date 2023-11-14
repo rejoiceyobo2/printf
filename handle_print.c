@@ -1,7 +1,6 @@
 #include "main.h"
 /**
  * handle_print - Prints an argument based on its type
- * by rejoice_yobo and Arohunmolase Daniel
  * @fmt: Formatted string in which to print the arguments.
  * @list: List of arguments to be printed.
  * @ind: ind.
@@ -10,6 +9,7 @@
  * @width: get width.
  * @precision: Precision specification
  * @size: Size specifier
+ *
  * Return: 1 or 2;
  */
 int handle_print(const char *fmt, int *ind, va_list list, char buffer[],
@@ -48,4 +48,3 @@ int handle_print(const char *fmt, int *ind, va_list list, char buffer[],
 	}
 	return (printed_chars);
 }
-
