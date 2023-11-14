@@ -4,6 +4,7 @@
 
 /**
  * print_char - Prints a char
+ * by rejoice_yobo and Arohunmolase Daniel
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
@@ -186,3 +187,4 @@ int print_binary(va_list types, char buffer[],
 	}
 	return (count);
 }
+
